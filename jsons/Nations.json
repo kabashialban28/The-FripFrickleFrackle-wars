@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Seattle Commune",
+		"leaderName": "Howard Unruh",
+		"adjective": ["Seattelese"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "when the anarchy strikes, seattle becomes their breadbasket.",
+		"startIntroPart2": "Howard unruh, you are our only hope of humanity's finest warboys!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "i guess i should spread the anarchy to your country.",
+		"attacked": "Were you even trying?",
+		"defeated": "okay, let me say this... You are only hirting yourself!",
+		"introduction": "it is howard unruh, lord of the anarchies. whats the haps!?.",
 		
 		"neutralHello": "How are you doing?",
 		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -29,12 +29,9 @@
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
 		"declaringfriendship": "Let us become like friends!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [128, 128,128],
+		"innerColor": [0, 0, 0],
+		"unique": "A_WORLD EVER UNFRIENDLY",
+		"cities": ["Seattle"]
 	}
 ]
