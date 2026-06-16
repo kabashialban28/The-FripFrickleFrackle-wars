@@ -33,9 +33,8 @@
 		"innerColor": [0, 0, 0],
 		"unique": "A_WORLD EVER UNFRIENDLY",
 		"cities": ["Seattle"]
-	}
-]
-[
+	},
+
 	{
 		"name": "Silver legion",
 		"leaderName": "King William I of Pelley",
